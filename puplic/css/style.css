@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    background-color: red;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
